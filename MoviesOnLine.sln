@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.29409.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoviesOnLine", "MoviesOnLine\MoviesOnLine.csproj", "{87FF156C-2C28-4167-9ED7-5E56B1EA6147}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoviesOnLine.Data", "MoviesOnLine.Data\MoviesOnLine.Data.csproj", "{5ED7B1A8-230A-41E4-8900-062BE6F41DC5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{87FF156C-2C28-4167-9ED7-5E56B1EA6147}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{87FF156C-2C28-4167-9ED7-5E56B1EA6147}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{87FF156C-2C28-4167-9ED7-5E56B1EA6147}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{87FF156C-2C28-4167-9ED7-5E56B1EA6147}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5ED7B1A8-230A-41E4-8900-062BE6F41DC5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5ED7B1A8-230A-41E4-8900-062BE6F41DC5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5ED7B1A8-230A-41E4-8900-062BE6F41DC5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5ED7B1A8-230A-41E4-8900-062BE6F41DC5}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {BDCB0D51-56B5-4BFE-9BE0-87FD8C47A062}
+	EndGlobalSection
+EndGlobal
